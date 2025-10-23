@@ -12,7 +12,7 @@ b = float(input("Digite o núumero:"))
 RSoma= soma(a,b)
 RSub= subtracao(a,b)
 
-print(f"A soma é igual ao número: {RSoma}")
+print(f"A soma é igual a: {RSoma}")
 print(f"A subtraçção é igual a: {RSub}")
 
 
