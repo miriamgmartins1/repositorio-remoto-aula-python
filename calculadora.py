@@ -7,7 +7,7 @@ def subtracao(a,b):
     return subtracao
 
 a = float(input("Digite o núumero:"))
-b = float(input("Digite o núumero:"))
+b = float(input("Digite  núumero:"))
 
 RSoma= soma(a,b)
 RSub= subtracao(a,b)
